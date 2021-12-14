@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INERTIA9)](https://github.com/INERTIA9/github-readme-stats)
 
 
-<img src="https://tenor.com/view/welcome-to-my-profile-gif-22589962" alt="Welcome!" width="300"/>
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 
 
