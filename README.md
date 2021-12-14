@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://tenor.com/view/dtdm1-dtdm-nowayback-gif-21705574"  width="300"/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 
 
