@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=INERTIA9&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INERTIA9)](https://github.com/INERTIA9/github-readme-stats)
+[![Saurabh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=INERTIA9)](https://github.com/INERTIA9/github-readme-stats)
+
 
 
