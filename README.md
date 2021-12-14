@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://giphy.com/clips/netflix-season-1-episode-squid-game-BKq0FieYJEwZ50s2jW" alt="Welcome!" width="300"/>
 
 
 
