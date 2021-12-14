@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INERTIA9)](https://github.com/INERTIA9/github-readme-stats)
 
-<a href="https://github.com/INERTIA9/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=INERTIA9&repo=github-readme-stats" />
-</a>
 
 
 
