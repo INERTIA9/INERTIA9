@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-### Hi there <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Saurabh ,A front-End Developer in Making
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Saurabh ,A front-End Developer in Making
 </p>
-
- <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=INERTIA9&show_icons=true&theme=radical)
 
