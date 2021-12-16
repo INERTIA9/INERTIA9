@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 
 
 -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" height="300px" >
+
 <p>
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Saurabh ,A front-End Developer in Making
 </p>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" height="300px" width="100%">
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=INERTIA9&show_icons=true&theme=radical)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INERTIA9)](https://github.com/INERTIA9/github-readme-stats)
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
